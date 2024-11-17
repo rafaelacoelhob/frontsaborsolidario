@@ -9,7 +9,7 @@ const ListaOngs = ({ novaOng }) => {
   // Função para carregar ONGs do backend
   const fetchOngs = async () => {
     try {
-      const response = await axios.get('http://localhost:3000/api/ongs');
+      const response = await axios.get('https://backendseusite.onrender.com/api/ongs');
       setOngs(response.data.ongs || []); // Certifique-se de acessar corretamente os dados do backend
       setError('');
     } catch (err) {

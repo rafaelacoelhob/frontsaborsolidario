@@ -56,7 +56,7 @@ function AdicionarOng({ onNewOng }) {
     if (validateForm()) {
       setLoading(true);
       try {
-        const response = await axios.post('http://localhost:3000/api/ongs', formData);
+        const response = await axios.post('https://backendseusite.onrender.com/api/ongs', formData);
         if (onNewOng) onNewOng(response.data); // Atualiza a lista de ONGs
         setMessage('Cadastro realizado com sucesso!'); // Exibe a mensagem de sucesso
         setFormData({

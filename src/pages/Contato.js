@@ -19,7 +19,7 @@ function Contato() {
 
         try {
             // Enviar os dados para o backend
-          await axios.post('http://localhost:3000/api/messages', {
+          await axios.post('https://backendseusite.onrender.com/api/messages', {
                 nome,
                 email,
                 mensagem,

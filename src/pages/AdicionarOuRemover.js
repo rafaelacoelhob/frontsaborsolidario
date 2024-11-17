@@ -23,7 +23,7 @@ function AdicionarOuRemover() {
     }
 
     try {
-      const response = await axios.get(`http://localhost:3000/api/ongs/${cnpj}`);
+      const response = await axios.get(`https://backendseusite.onrender.com/api/ongs/${cnpj}`);
       setMessage(`ONG encontrada: ${response.data.ong.nome}`);
       setError('');
       setConfirmRemove(false);

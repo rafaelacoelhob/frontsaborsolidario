@@ -36,7 +36,7 @@ const CriarConta = () => {
     }
 
     try {
-      const response = await axios.post('http://localhost:3000/api/auth/register', {
+      const response = await axios.post('https://backendseusite.onrender.com/api/auth/register', {
         nome,
         email,
         senha,
