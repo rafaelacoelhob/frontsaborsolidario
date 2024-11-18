@@ -10,7 +10,7 @@ const ListaOngs = ({ novaOng }) => {
   const fetchOngs = async () => {
     try {
       const response = await axios.get('https://backendsaborsolidario.onrender.com/api/ongs');
-      setOngs(response.data.ongs || []); // Certifique-se de acessar corretamente os dados do backend
+      setOngs(response.data.ongs || []); 
       setError('');
     } catch (err) {
       console.error('Erro ao carregar ONGs:', err);
