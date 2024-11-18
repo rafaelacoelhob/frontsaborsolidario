@@ -54,7 +54,7 @@ function AdicionarOuRemover() {
     }
 
     try {
-      const response = await axios.delete(`http://localhost:3000/api/ongs/${cnpj}`);
+      const response = await axios.delete(`https://backendsaborsolidario.onrender.com/api/ongs/${cnpj}`);
       setMessage(response.data.message);
       setError('');
       setCnpj('');
