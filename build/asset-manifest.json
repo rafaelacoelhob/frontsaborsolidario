@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.c078e24a.js",
+    "static/js/488.67ba67b8.chunk.js": "/static/js/488.67ba67b8.chunk.js",
+    "static/media/login.png": "/static/media/login.72bf12082b8345ced990.png",
+    "static/media/comeco.png": "/static/media/comeco.19f64ff5c95bbc0e3fcc.png",
+    "static/media/Sign.png": "/static/media/Sign.bfc426eb1bf33a1c64b0.png",
+    "static/media/senha.png": "/static/media/senha.aefde5c7fe37f66e5c40.png",
+    "static/media/maca.png": "/static/media/maca.e27cad08d1bb2d71ec19.png",
+    "static/media/deee.png": "/static/media/deee.172ca168c9159115020f.png",
+    "static/media/laptop.png": "/static/media/laptop.35ff9ccf8772d2ccfdee.png",
+    "static/media/sacola.png": "/static/media/sacola.50cf60cf139b4b18b24b.png",
+    "static/media/madeira.png": "/static/media/madeira.fc8594137de91708b669.png",
+    "static/media/caixa.png": "/static/media/caixa.0bde3cb46dd13ac488af.png",
+    "static/media/entregando.png": "/static/media/entregando.0d399e12bb3b88835f43.png",
+    "static/media/logo.png": "/static/media/logo.82ed5f0b2efbca50ad3b.png",
+    "static/media/carrosel2.jpeg": "/static/media/carrosel2.c60da034b31f00b235b2.jpeg",
+    "static/media/carrosel3.jpeg": "/static/media/carrosel3.9529a17f86d0e4eee68e.jpeg",
+    "static/media/carrosel1.jpeg": "/static/media/carrosel1.036de0b04c1fb92b822d.jpeg",
+    "static/media/dignidade.png": "/static/media/dignidade.4d4eea5b7086ac55bf90.png",
+    "static/media/Solidariedade.png": "/static/media/Solidariedade.a33a7083d7194ecd7387.png",
+    "static/media/Sustentabilidade.png": "/static/media/Sustentabilidade.2db374849c648e4c11a9.png",
+    "static/media/Compromisso.png": "/static/media/Compromisso.6adc4a598ebf7625f80f.png",
+    "static/media/ranking.jpeg": "/static/media/ranking.c7e4a7460d7a2786456b.jpeg",
+    "static/media/juntar.png": "/static/media/juntar.7362c88f50a7e5425eb2.png",
+    "static/media/sobre.png": "/static/media/sobre.0f8d794fa61ce5ba322b.png",
+    "static/media/oi.png": "/static/media/oi.f799ae192bc155f9464d.png",
+    "static/media/casa.png": "/static/media/casa.e9acd1099a9b23cd6336.png",
+    "static/media/endereco.png": "/static/media/endereco.705fdf8af22d2058a567.png",
+    "static/media/insta.png": "/static/media/insta.98406c617441bb02d8c6.png",
+    "static/media/mail.png": "/static/media/mail.27db65c1d74032329405.png",
+    "static/media/mensagem.png": "/static/media/mensagem.27db65c1d74032329405.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.c078e24a.js.map": "/static/js/main.c078e24a.js.map",
+    "488.67ba67b8.chunk.js.map": "/static/js/488.67ba67b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c078e24a.js"
+  ]
+}
