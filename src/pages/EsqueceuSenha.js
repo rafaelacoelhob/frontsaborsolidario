@@ -34,7 +34,7 @@ const EsqueceuSenha = () => {
     }
 
     try {
-      const response = await axios.post('https://backendseusite.onrender.com/api/auth/reset-password', {
+      const response = await axios.post('https://backendsaborsolidario.onrender.com/api/auth/reset-password', {
         email,
         novaSenha,
       });
