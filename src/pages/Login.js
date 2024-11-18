@@ -14,7 +14,7 @@ function Login() {
         e.preventDefault();
 
         try {
-            const response = await axios.post('https://backendseusite.onrender.com/api/auth/login', {
+            const response = await axios.post('https://backendsaborsolidario.onrender.com/api/auth/login', {
                 email,
                 senha,
             });
